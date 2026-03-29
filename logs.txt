@@ -1,0 +1,12 @@
+*   9be5e59 Merge branch 'feature-borrow-book'
+|\  
+| *   d2b8b2f Resolve conflict
+| |\  
+| * | 19bf8f3 Implement borrow book
+* | | 9ddb035 Implement genre report
+| |/  
+|/|   
+* | eec31fe Update on master
+|/  
+* 69ab855 Implement book search
+* 2e37d85 Initial commit

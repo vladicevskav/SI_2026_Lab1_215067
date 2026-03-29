@@ -1,0 +1,14 @@
+Commands used:
+git clone
+git add
+git commit
+git push
+git checkout -b
+git merge
+git log
+
+Explanation:
+Created branches feature-search-books, feature-borrow-book and feature-genre-report.
+Performed fast-forward merge for search branch.
+Created merge conflict in borrow.txt and resolved it manually.
+Used recursive merge for final merging.
